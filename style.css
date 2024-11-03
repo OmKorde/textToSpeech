@@ -1,0 +1,26 @@
+.heading{
+    color:orangered;
+}
+body{
+    background: linear-gradient(90deg,rgb(34, 33, 32),#3b3731);
+    color:white;
+}
+.container{
+    margin-top:190px;
+    color:white;
+}
+#textInput{
+    border:2px solid rgb(236, 98, 52);
+    width: 50%;
+    padding: 10px;
+    margin-top:10px;
+    margin-bottom:10px
+}
+#speak-btn{
+    border:2px solid orchid;
+    border-radius: 10%;
+    background-color: rgb(68, 68, 255);
+    margin-top:10px;
+    width:7%;
+    padding:5px;
+}
